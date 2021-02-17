@@ -1,4 +1,31 @@
- <a>![wechat](https://img.shields.io/badge/wechat-ReBuildTest-666666?style=for-the-badge&logo=appveyor=wechat&logoColor=ffffff&labelColor=7BB32E)</a> 
+
+```
+                                                       _oo0oo_
+                                                      o8888888o
+                                                      88" . "88
+                                                      (| -_- |)
+                                                      0\  =  /0
+                                                    ___/`---'\___
+                                                  .' \\|     |// '.
+                                                 / \\|||  :  |||// \
+                                                / _||||| -:- |||||- \
+                                               |   | \\\  -  /// |   |
+                                               | \_|  ''\---/''  |_/ |
+                                               \  .-\__  '-'  ___/-. /
+                                             ___'. .'  /--.--\  `. .'___
+                                          ."" '<  `.___\_<|>_/___.' >' "".
+                                         | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+                                         \  \ `_.   \_ __\ /__ _/   .-` /  /
+                                     =====`-.____`.___ \_____/___.-`___.-'=====
+                                                       `=---='
+
+
+                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                               菩提本无树   明镜亦非台
+                                               本来无BUG    何必常修改
+```
+
+<a>![wechat](https://img.shields.io/badge/wechat-ReBuildTest-666666?style=for-the-badge&logo=appveyor=wechat&logoColor=ffffff&labelColor=7BB32E)</a> 
 
 ## 🍕 I'm LittleRey
 * Golang开发一枚
@@ -26,29 +53,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleRey)
 ![LittleRey's github stats](https://github-readme-stats.vercel.app/api?username=LittleRey&show_icons=true&count_private=true&line_height=40)
 
-```
-                                                       _oo0oo_
-                                                      o8888888o
-                                                      88" . "88
-                                                      (| -_- |)
-                                                      0\  =  /0
-                                                    ___/`---'\___
-                                                  .' \\|     |// '.
-                                                 / \\|||  :  |||// \
-                                                / _||||| -:- |||||- \
-                                               |   | \\\  -  /// |   |
-                                               | \_|  ''\---/''  |_/ |
-                                               \  .-\__  '-'  ___/-. /
-                                             ___'. .'  /--.--\  `. .'___
-                                          ."" '<  `.___\_<|>_/___.' >' "".
-                                         | | :  `- \`.;`\ _ /`;.`/ - ` : | |
-                                         \  \ `_.   \_ __\ /__ _/   .-` /  /
-                                     =====`-.____`.___ \_____/___.-`___.-'=====
-                                                       `=---='
-
-
-                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                                               菩提本无树   明镜亦非台
-                                               本来无BUG    何必常修改
-```
 
