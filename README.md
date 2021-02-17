@@ -39,7 +39,7 @@
 
 ### 🍔 技术栈
 
-![Go](https://img.shields.io/badge/go-000000.svg?&style=for-the-badge&logo=go&logoColor=ffffff)
+![Go](https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=ffffff)
 
 
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) ![sublime](https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=222222) 
