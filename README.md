@@ -33,7 +33,9 @@
 * 热衷跨平台开发
 * 微信联系: ReBuildTest
 
- <a>![wechat](https://img.shields.io/badge/wechat-ReBuildTest-666666?style=for-the-badge&logo=appveyor=wechat&logoColor=ffffff&labelColor=7BB32E) <a>
+ <a>![wechat](https://img.shields.io/badge/wechat-ReBuildTest-666666?style=for-the-badge&logo=appveyor=wechat&logoColor=ffffff&labelColor=7BB32E)<a>
+  
+  
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=ffffff) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=222222)
 
 ### 🍔 技术栈
