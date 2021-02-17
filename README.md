@@ -31,9 +31,9 @@
 * Golang开发一枚
 * 热爱编程, 拥抱开源
 * 热衷跨平台开发
-
-* 微信联系: ReBuildTest
 <a>![wechat](https://img.shields.io/badge/wechat-ReBuildTest-666666?style=for-the-badge&logo=appveyor=wechat&logoColor=ffffff&labelColor=7BB32E)</a> 
+* 微信联系: ReBuildTest
+
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=ffffff) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=222222)
 
@@ -44,7 +44,7 @@
 
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) ![sublime](https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=222222) 
 
-###访客数
+### 访客数
 <!-- ### Feature
 
 <h4 align="center">访客数 :eyes:</h4>
