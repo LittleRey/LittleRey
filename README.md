@@ -32,7 +32,7 @@
 * 热爱编程, 拥抱开源
 * 热衷跨平台开发
 
- <a>![WeChat](https://img.shields.io/badge/wechat-BuildTest-666666?style=for-the-badge&logo=wechat&logoColor=ffffff&labelColor=7BB32E)<a>
+ <a>![WeChat](https://img.shields.io/badge/wechat-SentNet-666666?style=for-the-badge&logo=wechat&logoColor=ffffff&labelColor=7BB32E)<a>
   
   
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=ffffff) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=222222)
